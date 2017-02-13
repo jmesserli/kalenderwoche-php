@@ -1,0 +1,16 @@
+{
+    "name": "jmesserli/kalenderwoche-api",
+    "description": "Returns the current \"Kalenderwoche\" over an API",
+    "type": "project",
+    "require": {
+        "mikecao/flight": "^1.3",
+        "nesbot/carbon": "^1.22"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joel Messerli",
+            "email": "hi.github@peg.nu"
+        }
+    ]
+}
